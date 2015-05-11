@@ -50,8 +50,10 @@
 [bat] Compaq CQ60	battery/battery_Compaq-CQ60.txt
 [bat] Dell Inspiron 13z	battery/battery_Dell-Inspiron-13z.txt
 [bat] Dell Inspiron 15-7xxx	battery/battery_Dell-Inspiron-15-7xxx.txt
+[bat] Dell Studio 1558	battery/battery_Dell-Studio-1558.txt
 [bat] Dell Vostro 15xx	battery/battery_Dell-Vostro-15xx.txt
 [bat] Dell XPS 13	battery/battery_Dell-XPS-13.txt
+[bat] Dell XPS 14Z	battery/battery_Dell-XPS-14Z-L412Z.txt
 [bat] Dell XPS 18	battery/battery_Dell-XPS-18.txt
 [bat] Dell XPS L502x	battery/battery_Dell-XPS-L502x.txt
 [bat] Gateway ID49C07u	battery/battery_Gateway-ID49C07u.txt
@@ -79,6 +81,7 @@
 [bat] Lenovo T440p	battery/battery_Lenovo-T440p.txt
 [bat] Lenovo Twist	battery/battery_Lenovo-Twist.txt
 [bat] Lenovo Ux10-Z580	battery/battery_Lenovo-Ux10-Z580.txt
+[bat] Lenovo Thinkpad W550s	battery/battery_Lenovo-ThinkPad-W550s.txt
 [bat] Lenovo X201	battery/battery_Lenovo-X201.txt
 [bat] Lenovo X220	battery/battery_Lenovo-X220.txt
 [bat] Lenovo Y510p	battery/battery_Lenovo-y510p.txt
@@ -108,7 +111,7 @@
 [misc] --> Fan control/temperature/LID status patches	NullPatch.txt
 [misc] Acer Aspire fan control	misc/control_AcerFan.txt
 [misc] Poll for LID changes	misc/misc_LidPoll.txt
-[misc] Remove LID0._PRW	misc/misc_Lid_PRW.txt
+[misc] Remove _PRW from LID	misc/misc_Lid_PRW.txt
 [sys] --> System Patches	NullPatch.txt
 [sys] IRQ Fix	system/system_IRQ.txt
 [sys] SMBUS Fix	system/system_SMBUS.txt

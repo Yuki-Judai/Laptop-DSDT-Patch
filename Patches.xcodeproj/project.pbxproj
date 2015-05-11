@@ -128,13 +128,16 @@
 		ED1F8F471A1399D1005F6F5B /* battery_Lenovo-Yoga-13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Lenovo-Yoga-13.txt"; path = "battery/battery_Lenovo-Yoga-13.txt"; sourceTree = "<group>"; };
 		ED2050221AD1124600E60CD2 /* battery_Dell-Inspiron-15-7xxx.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Dell-Inspiron-15-7xxx.txt"; path = "battery/battery_Dell-Inspiron-15-7xxx.txt"; sourceTree = "<group>"; };
 		ED2A1F171AB32E770024D58C /* battery_Lenovo-y510p.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Lenovo-y510p.txt"; path = "battery/battery_Lenovo-y510p.txt"; sourceTree = "<group>"; };
+		ED40F7221AF1323E00F0B970 /* battery_Lenovo-ThinkPad-W550s.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Lenovo-ThinkPad-W550s.txt"; path = "battery/battery_Lenovo-ThinkPad-W550s.txt"; sourceTree = "<group>"; };
 		ED5A9CD01A2A43710024EC94 /* battery_Medion-Akoya-P6630.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Medion-Akoya-P6630.txt"; path = "battery/battery_Medion-Akoya-P6630.txt"; sourceTree = "<group>"; };
+		ED5EDD851AF50EE4008F32DE /* battery_Dell-Studio-1558.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Dell-Studio-1558.txt"; path = "battery/battery_Dell-Studio-1558.txt"; sourceTree = "<group>"; };
 		ED6DC49A1A5383AC008A901E /* battery_LG-N450.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_LG-N450.txt"; path = "battery/battery_LG-N450.txt"; sourceTree = "<group>"; };
 		ED7FB8091AA8BCD20077FD6D /* battery_Clevo-W170HN.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Clevo-W170HN.txt"; path = "battery/battery_Clevo-W170HN.txt"; sourceTree = "<group>"; };
 		ED894A2C1AA779BC00D72637 /* battery_Lenovo-Yoga-S1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Lenovo-Yoga-S1.txt"; path = "battery/battery_Lenovo-Yoga-S1.txt"; sourceTree = "<group>"; };
 		ED8A1AB61AA38DD70019A7F4 /* battery_Lenovo-X201.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Lenovo-X201.txt"; path = "battery/battery_Lenovo-X201.txt"; sourceTree = "<group>"; };
 		EDB15EEA1A34B10C009F0E21 /* graphics_PTS_WAK-disable.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "graphics_PTS_WAK-disable.txt"; path = "graphics/graphics_PTS_WAK-disable.txt"; sourceTree = "<group>"; };
 		EDB280191A3A21BD002C47E1 /* graphics_nvidia_laptop2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = graphics_nvidia_laptop2.txt; path = graphics/graphics_nvidia_laptop2.txt; sourceTree = "<group>"; };
+		EDBC416D1AFAA14700F2C133 /* battery_Dell-XPS-14Z-L412Z.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Dell-XPS-14Z-L412Z.txt"; path = "battery/battery_Dell-XPS-14Z-L412Z.txt"; sourceTree = "<group>"; };
 		EDCCC2CB1A70148300C7301E /* battery_Lenovo-G50-70.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "battery_Lenovo-G50-70.txt"; path = "battery/battery_Lenovo-G50-70.txt"; sourceTree = "<group>"; };
 		EDCD54641A2E10550009F438 /* graphics_REG-disable.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "graphics_REG-disable.txt"; path = "graphics/graphics_REG-disable.txt"; sourceTree = "<group>"; };
 		EDCD54651A2E11EA0009F438 /* graphics_INI-disable.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "graphics_INI-disable.txt"; path = "graphics/graphics_INI-disable.txt"; sourceTree = "<group>"; };
@@ -246,8 +249,10 @@
 				842F531917FB301B001CF33B /* battery_Compaq-CQ60.txt */,
 				842525F519CDBD01009FA9D7 /* battery_Dell-Inspiron-13z.txt */,
 				ED2050221AD1124600E60CD2 /* battery_Dell-Inspiron-15-7xxx.txt */,
+				ED5EDD851AF50EE4008F32DE /* battery_Dell-Studio-1558.txt */,
 				843D33E71832C37F00C347A4 /* battery_Dell-Vostro-15xx.txt */,
 				842F531A17FB301B001CF33B /* battery_Dell-XPS-13.txt */,
+				EDBC416D1AFAA14700F2C133 /* battery_Dell-XPS-14Z-L412Z.txt */,
 				84D447031836DA1B006B6FEA /* battery_Dell-XPS-18.txt */,
 				84AA4E051846A6750048423C /* battery_Dell-XPS-L502x.txt */,
 				845A0C2419322B0F005001DE /* battery_Gateway-ID49C07u.txt */,
@@ -274,6 +279,7 @@
 				842AF6E419CB3D2F00309DAD /* battery_Lenovo-T440p.txt */,
 				841F8DE817FB541900C36F76 /* battery_Lenovo-Twist.txt */,
 				842F531E17FB301B001CF33B /* battery_Lenovo-Ux10-Z580.txt */,
+				ED40F7221AF1323E00F0B970 /* battery_Lenovo-ThinkPad-W550s.txt */,
 				ED8A1AB61AA38DD70019A7F4 /* battery_Lenovo-X201.txt */,
 				842F531D17FB301B001CF33B /* battery_Lenovo-X220.txt */,
 				ED2A1F171AB32E770024D58C /* battery_Lenovo-y510p.txt */,
